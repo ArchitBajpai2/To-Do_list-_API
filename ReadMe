@@ -1,0 +1,5 @@
+to-do list api with all CRUD functionalites
+Please install all the libraries necessary first first
+Run the app using the command " uvicorn main:app "
+And connect with your own MongoClient
+Built by Archit Bajpai
